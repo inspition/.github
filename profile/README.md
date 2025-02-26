@@ -1,14 +1,18 @@
 # 🚀 林春通 - 前端开发工程师
 
-
-
-
 ## 🌟 关于我
 
 - 🌐 精通Vue、具备多框架实战经验React、Nuxt、Angular
 - 🚀 热衷于高性能Web应用开发，擅长前端可配置化
 - 🌍 熟悉后端语言Node.js、Golang，涉及爬虫业务、大语言模型接口集成等
 - 📊 丰富的AI及可视化应用开发经验，结合GIS等前端可视化技术
+
+## 🌐 项目展示
+
+### 🌟 React 19 + Vite + TypeScript Demo
+
+- **项目地址**：[https://github.com/inspition/demo-react](https://github.com/inspition/demo-react)
+- **演示地址**：[https://inspition.github.io/demo-react/](https://inspition.github.io/demo-react/)
 
 ## 🛠 技术栈
 
