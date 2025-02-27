@@ -24,7 +24,6 @@
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-FF4E50?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Cesium](https://img.shields.io/badge/Cesium-000000?style=for-the-badge&logo=Cesium&logoColor=white)
 ![ECharts](https://img.shields.io/badge/ECharts-FF6E6E?style=for-the-badge&logo=ECharts&logoColor=white)
